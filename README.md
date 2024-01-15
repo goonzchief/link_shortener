@@ -23,6 +23,9 @@ This project is a simple link shortener application built with PHP and MySQL. It
 2. Click the "Shorten URL" button.
 3. The shortened URL will be displayed.
 
+## Credit
+Thanks to @ConnorTews 
+
 ## License
 
 This project is licensed under the MIT License.
